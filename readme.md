@@ -1,6 +1,6 @@
 # dotfiles
 
-Mislav's configuration files for bash, zsh, git, and more.
+misderx  configuration files for bash, zsh, git, and more.
 
 ## Installation
 
